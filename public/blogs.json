@@ -4,10 +4,10 @@
       "cover": "https://i.ibb.co/zrRYNkd/close-up-hand-with-painting-pallete.jpg",
       "title": "The Art of Programming",
       "author": "John Smith",
-      "author_img": "https://example.com/author1.jpg",
+      "author_img": "https://i.im.ge/2024/03/16/RmyYza.girl1.jpeg",
       "posted_date": "2024-03-14",
-      "reading_time": "10 minutes",
-      "hashtag": "#programming",
+      "reading_time": 10 ,
+      "hashtag": ["#programming","#code"],
       "img": "https://example.com/image1.jpg"
     },
     {
@@ -15,10 +15,10 @@
       "cover": "https://i.ibb.co/n8sKPxJ/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
       "title": "Introduction to Machine Learning",
       "author": "Jane Doe",
-      "author_img": "https://example.com/author2.jpg",
+      "author_img": "https://i.im.ge/2024/03/16/RmEFL0.boy1.png",
       "posted_date": "2024-03-13",
-      "reading_time": "15 minutes",
-      "hashtag": "#machinelearning",
+      "reading_time":21,
+      "hashtag": ["#machinelearning","#AI #robotics"],
       "img": "https://example.com/image2.jpg"
     },
     {
@@ -26,10 +26,10 @@
       "cover": "https://i.ibb.co/zrRYNkd/close-up-hand-with-painting-pallete.jpg",
       "title": "The Power of Data Visualization",
       "author": "Michael Johnson",
-      "author_img": "https://example.com/author3.jpg",
+      "author_img": "https://i.im.ge/2024/03/16/RmEFL0.boy1.png",
       "posted_date": "2024-03-12",
-      "reading_time": "12 minutes",
-      "hashtag": "#dataviz",
+      "reading_time": 15,
+      "hashtag": ["#dataviz","#CLoudEngineering"],
       "img": "https://example.com/image3.jpg"
     },
     {
@@ -37,10 +37,10 @@
       "cover": "https://i.ibb.co/n8sKPxJ/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
       "title": "Effective Communication Strategies",
       "author": "Emily Brown",
-      "author_img": "https://example.com/author4.jpg",
+      "author_img": "https://i.im.ge/2024/03/16/RmyYza.girl1.jpeg",
       "posted_date": "2024-03-11",
-      "reading_time": "8 minutes",
-      "hashtag": "#communication",
+      "reading_time": 8,
+      "hashtag": ["#communication","#CLoudEngineering"],
       "img": "https://example.com/image4.jpg"
     },
     {
@@ -48,10 +48,10 @@
       "cover": "https://i.ibb.co/zrRYNkd/close-up-hand-with-painting-pallete.jpg",
       "title": "The Future of AI and Robotics",
       "author": "David Lee",
-      "author_img": "https://example.com/author5.jpg",
+      "author_img": "https://i.im.ge/2024/03/16/RmEFL0.boy1.png",
       "posted_date": "2024-03-10",
-      "reading_time": "20 minutes",
-      "hashtag": "#AI #robotics",
+      "reading_time": 47,
+      "hashtag": ["#AI #robotics","#communication"],
       "img": "https://example.com/image5.jpg"
     }
   ]
