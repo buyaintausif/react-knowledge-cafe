@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/zrRYNkd/close-up-hand-with-painting-pallete.jpg",
+      "title": "The Art of Programming",
+      "author": "John Smith",
+      "author_img": "https://example.com/author1.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": "10 minutes",
+      "hashtag": "#programming",
+      "img": "https://example.com/image1.jpg"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/n8sKPxJ/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
+      "title": "Introduction to Machine Learning",
+      "author": "Jane Doe",
+      "author_img": "https://example.com/author2.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": "15 minutes",
+      "hashtag": "#machinelearning",
+      "img": "https://example.com/image2.jpg"
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/zrRYNkd/close-up-hand-with-painting-pallete.jpg",
+      "title": "The Power of Data Visualization",
+      "author": "Michael Johnson",
+      "author_img": "https://example.com/author3.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": "12 minutes",
+      "hashtag": "#dataviz",
+      "img": "https://example.com/image3.jpg"
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/n8sKPxJ/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
+      "title": "Effective Communication Strategies",
+      "author": "Emily Brown",
+      "author_img": "https://example.com/author4.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": "8 minutes",
+      "hashtag": "#communication",
+      "img": "https://example.com/image4.jpg"
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/zrRYNkd/close-up-hand-with-painting-pallete.jpg",
+      "title": "The Future of AI and Robotics",
+      "author": "David Lee",
+      "author_img": "https://example.com/author5.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": "20 minutes",
+      "hashtag": "#AI #robotics",
+      "img": "https://example.com/image5.jpg"
+    }
+  ]
+  
